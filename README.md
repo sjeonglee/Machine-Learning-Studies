@@ -1,7 +1,3 @@
-# Machine Learning
-
-Date Created: November 7, 2022 11:50 PM
-
 # Machine Learning 관련 수업
 
 > 학부와 대학원에서 수강했던 기계학습 및 AI 관련 수업에서 수행했던 과제 모음.
